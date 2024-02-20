@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Skele878
 - 👀 I’m interested in backend. I am new to this thing.
 - 🌱 I’m currently learning  Go.
-- 💞️ I’m looking forward to collaborating with anyone i can. 
 - 📫 How to reach me - IsraNecropol@gmail.com
 
 <!---
